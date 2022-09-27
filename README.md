@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @justinromanowski
+- I'm currently a third-year student at Kennesaw State University
+- My field of study is Computer Engineering with a minor in Renewable Energy Engineering
+- Feel free to look around my GitHub to see some coding work that I have done in the past! 
+- Apologies for anything that may be outdated/incorrect, I try my hardest to keep this as up to date as possible.
+- You can reach out to me via LinkedIn >> https://www.linkedin.com/in/justin-romanowski/
