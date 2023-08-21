@@ -2,5 +2,5 @@
 - I'm currently a senior at Kennesaw State University
 - My field of study is Computer Engineering
 - Feel free to look around my GitHub to see some coding work that I have done in the past! 
-- Apologies for anything that may be outdated/incorrect, I try my hardest to keep this as up to date as possible.
+- The work I've showcased here is from previous classes, labs, & personal projects. 
 - You can reach out to me via LinkedIn >> https://www.linkedin.com/in/justin-romanowski/
